@@ -13,3 +13,6 @@
 
 ## v0.1.6
 * support all Rails 6 versions
+
+## v0.1.7
+* support for Rails 7.1 version
