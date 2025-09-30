@@ -1,6 +1,8 @@
 ## v0.0.1
 
 * initial release
+## v0.1.8
+* support for Rails 7.2 version
 
 ## v0.0.2
 * support Rails 5.0

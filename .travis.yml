@@ -12,9 +12,10 @@ gemfile:
   - gemfiles/rails-6.0.gemfile
   - gemfiles/rails-7.0.gemfile
   - gemfiles/rails-7.1.gemfile
+  - gemfiles/rails-7.2.gemfile
   - gemfiles/rails-master.gemfile
 matrix:
   include:
     - rvm: 3.3.9
-    - gemfiles/rails-7.1.gemfile
+    - gemfiles/rails-7.2.gemfile
   fast_finish: true
